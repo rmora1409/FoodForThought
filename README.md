@@ -6,4 +6,4 @@
 
 * [Inspiraciones](./Inspiraciones.md)
 
-* [Meditaciones](Meditaciones.md)
+* [Meditaciones](./Meditaciones.md)
